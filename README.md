@@ -52,7 +52,7 @@ var bruno = new Developer
 
 <div align="center">
   <a href="https://profile.codersrank.io/user/b010">
-    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=b010&badges=3&show_header=true" alt="CodersRank" />
+    <img src="https://img.shields.io/badge/CodersRank-Top%203%25%20Worldwide-9d4edd?style=for-the-badge&labelColor=1a0b2e" /> <img src="https://img.shields.io/badge/Score-276.2-c77dff?style=for-the-badge&labelColor=1a0b2e" /> <img src="https://img.shields.io/badge/Blazor-Top%2050%20Brazil-7b2cbf?style=for-the-badge&logo=blazor&logoColor=white&labelColor=1a0b2e" /> <br/> <img src="https://img.shields.io/badge/C%23-Associate%20Developer-5a189a?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=1a0b2e" /> <img src="https://img.shields.io/badge/JavaScript-Associate%20Developer-5a189a?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1a0b2e" />
   </a>
 </div>
 
