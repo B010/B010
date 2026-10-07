@@ -48,14 +48,6 @@ var bruno = new Developer
   <img src="https://streak-stats.demolab.com?user=B010&background=1a0b2e&ring=c77dff&fire=e0aaff&currStreakNum=ffffff&currStreakLabel=c77dff&sideNums=ffffff&sideLabels=c77dff&dates=b8a6d9&stroke=4b1d6e&hide_border=true" />
 </div>
 
-### 🏆 CodersRank
-
-<div align="center">
-  <a href="https://profile.codersrank.io/user/b010">
-    <img src="https://img.shields.io/badge/CodersRank-Top%203%25%20Worldwide-9d4edd?style=for-the-badge&labelColor=1a0b2e" /> <img src="https://img.shields.io/badge/Score-276.2-c77dff?style=for-the-badge&labelColor=1a0b2e" /> <img src="https://img.shields.io/badge/Blazor-Top%2050%20Brazil-7b2cbf?style=for-the-badge&logo=blazor&logoColor=white&labelColor=1a0b2e" /> <br/> <img src="https://img.shields.io/badge/C%23-Associate%20Developer-5a189a?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=1a0b2e" /> <img src="https://img.shields.io/badge/JavaScript-Associate%20Developer-5a189a?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1a0b2e" />
-  </a>
-</div>
-
 ### 🐍 Contribuições
 
 <div align="center">
