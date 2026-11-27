@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Reels Blocker</string>
+    <string name="service_desc">Detecta quando você abre Reels (Instagram) ou Shorts (YouTube) e volta automaticamente. Nenhum dado é coletado ou enviado.</string>
+</resources>
